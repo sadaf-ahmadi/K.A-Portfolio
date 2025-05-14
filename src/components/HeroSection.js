@@ -38,7 +38,7 @@ const HeroSection = () => {
     overflow: 'hidden',
   }}>
     <img
-      src="/k-2.png"
+      src="/K-2.png"
       alt="Kourosh"
       style={{
         width: '100%',
