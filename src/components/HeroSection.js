@@ -3,11 +3,12 @@ import { Container, Row, Col, Button } from 'react-bootstrap';
 
 const HeroSection = () => {
   return (
-    <div style={{
-      background: '#0b1d2e',
-      color: '#fff',
-      padding: '10px, 0 60px',
+    <div className="hero-section" style={{
+    background: '#0b1d2e',
+    color: '#fff',
+    padding: '10px 0 60px',  // update padding here too
     }}>
+
       <Container>
         <Row className="align-items-center gy-5">
           {/* LEFT SIDE - TEXT */}

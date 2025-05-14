@@ -11,10 +11,10 @@ const About = () => {
             I'm Kourosh, an Assistant Project Manager at EllisDon with a passion for precision, planning, and innovation in the construction industry.
             With over 4 years of experience leading large-scale commercial builds, I thrive in environments where detail and structure meet creativity.
           </p>
-          <p style={{ fontSize: '1.1rem' }}>
+          <p className="lead mb-3">
             I bring a strong mix of field expertise and client relationship skills to every project.
             Whether I'm on-site coordinating subcontractors or meeting with stakeholders, I strive to bring vision to reality.
-            Outside of work, I enjoy photography, architecture tours, and mentoring young engineers entering the field.
+            Outside of work, I’m often on the tennis court, exploring new places around the city, or offering guidance to junior engineers getting started in the industry.
           </p>
         </Col>
       </Row>
